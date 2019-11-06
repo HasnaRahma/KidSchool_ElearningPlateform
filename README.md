@@ -6,12 +6,30 @@ Cependant, dans des versions plus avancées l’enseignant aura la possibilité 
 Il y a une partie du site web dédié à un administrateur pour leur permettre la gestion des différentes demandes et la supervision de toutes les activités.
 L’application est conçue pour des acteurs de 4 catégories (Enfants, Parents, Enseignants, Administrateur)
 
-![](schémaGlobal.png)
+Le schéma global présenté ci-dessous correspond aux différentes acteurs de la plateforme et leurs rôles : 
+![](Captures/schémaGlobal.png)
 
 # Tools used 
 PostgreSQL
 Eclipse : J2EE, Spring Framework 
 
+
+# Représentation graphique de quelques interfaces : 
+
+Acceuil d'Eleve Prescolaire
+![](Captures/AcceuilElevePrescolaire.PNG)
+Acceuil d'Eleve Primaire
+![](Captures/AcceuilElevePrimaire.PNG)
+Interface Matieère Lecture1 
+![](Captures/Lecture1.PNG)
+Interface Matieère Lecture2
+![](Captures/Lecture2.PNG)
+Interface Prescolaire Chanson
+![](Captures/PrescolaireChanson.PNG)
+Interface Prescolaire Coloriage
+![](Captures/PrescolaireColoriage.PNG)
+Interface Prescolaire Math
+![](Captures/PrescolaireMath.PNG)
 
 
  
