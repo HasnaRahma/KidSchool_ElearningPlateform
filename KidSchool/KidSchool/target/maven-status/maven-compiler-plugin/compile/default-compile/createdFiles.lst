@@ -1,0 +1,14 @@
+com\model\Test.class
+com\DemoApplication.class
+com\model\Role.class
+com\controller\LoginController.class
+com\model\Parent.class
+com\service\UserService.class
+com\repository\UserRepository.class
+com\service\UserServiceImpl.class
+com\controller\AppErrorController.class
+com\configuration\SecurityConfiguration.class
+com\configuration\WebMvcConfig.class
+com\model\User.class
+com\model\Question.class
+com\repository\RoleRepository.class
